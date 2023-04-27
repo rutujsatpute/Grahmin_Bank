@@ -1,0 +1,30 @@
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\bin\Debug\net6.0\Bank_Account_Opening.exe
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\bin\Debug\net6.0\Bank_Account_Opening.deps.json
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\bin\Debug\net6.0\Bank_Account_Opening.runtimeconfig.json
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\bin\Debug\net6.0\Bank_Account_Opening.dll
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\bin\Debug\net6.0\Bank_Account_Opening.pdb
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.csproj.AssemblyReference.cache
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.AssemblyInfoInputs.cache
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.AssemblyInfo.cs
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.csproj.CoreCompileInputs.cache
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.dll
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\refint\Bank_Account_Opening.dll
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.pdb
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.genruntimeconfig.cache
+C:\Users\rsatpute\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\ref\Bank_Account_Opening.dll
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.csproj.AssemblyReference.cache
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.AssemblyInfoInputs.cache
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.AssemblyInfo.cs
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.csproj.CoreCompileInputs.cache
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.dll
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\refint\Bank_Account_Opening.dll
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.pdb
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\bin\Debug\net6.0\Bank_Account_Opening.exe
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\bin\Debug\net6.0\Bank_Account_Opening.deps.json
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\bin\Debug\net6.0\Bank_Account_Opening.runtimeconfig.json
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\bin\Debug\net6.0\Bank_Account_Opening.dll
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\bin\Debug\net6.0\Bank_Account_Opening.pdb
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\Bank_Account_Opening.genruntimeconfig.cache
+C:\Users\rsatpute\OneDrive - DXC Production\Desktop\Assignment\Bank_Account_Opening\Bank_Account_Opening\obj\Debug\net6.0\ref\Bank_Account_Opening.dll
